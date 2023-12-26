@@ -1,1 +1,2 @@
 Feature A
+Dev B update category
